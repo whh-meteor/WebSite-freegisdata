@@ -21,7 +21,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "全球综合数据资源，主要包括高程地形数据、水文信息、边界数据。提供多尺度、多格式的公开地理空间数据下载。"
   },
   {
     "id": "ds-002",
@@ -43,7 +44,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "全球综合数据资源，主要包括高程地形数据、土地覆盖数据、基础底图。提供多尺度、多格式的公开地理空间数据下载。"
   },
   {
     "id": "ds-003",
@@ -68,7 +70,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "全球综合数据资源，主要包括高程地形数据、边界数据、土地覆盖数据。提供多尺度、多格式的公开地理空间数据下载。"
   },
   {
     "id": "ds-004",
@@ -96,7 +99,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "全球综合数据资源，主要包括高程地形数据、气候数据、水文信息。提供多尺度、多格式的公开地理空间数据下载。"
   },
   {
     "id": "ds-005",
@@ -120,7 +124,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "全球综合数据资源，主要包括气候数据、水文信息、边界数据。提供多尺度、多格式的公开地理空间数据下载。"
   },
   {
     "id": "ds-006",
@@ -143,7 +148,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Registration required",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "全球综合数据资源，主要包括高程地形数据、气候数据、基础底图。提供多尺度、多格式的公开地理空间数据下载。"
   },
   {
     "id": "ds-007",
@@ -163,7 +169,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "全球综合数据资源，主要包括综合地理数据。提供多尺度、多格式的公开地理空间数据下载。"
   },
   {
     "id": "ds-008",
@@ -183,7 +190,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "全球综合数据资源，主要包括综合地理数据。提供多尺度、多格式的公开地理空间数据下载。"
   },
   {
     "id": "ds-009",
@@ -203,7 +211,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "全球综合数据资源，主要包括综合地理数据。提供多尺度、多格式的公开地理空间数据下载。"
   },
   {
     "id": "ds-010",
@@ -225,7 +234,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "全球陆地与海洋边界数据资源，主要包括水文信息、边界数据、基础底图。提供多尺度、多格式的公开地理空间数据下载。"
   },
   {
     "id": "ds-011",
@@ -245,7 +255,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "全球高程/地形数据资源，主要包括高程地形数据。提供多尺度、多格式的公开地理空间数据下载。"
   },
   {
     "id": "ds-012",
@@ -266,7 +277,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "全球高程/地形数据资源，主要包括高程地形数据。提供多尺度、多格式的公开地理空间数据下载。"
   },
   {
     "id": "ds-013",
@@ -286,7 +298,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "全球高程/地形数据资源，主要包括高程地形数据。提供多尺度、多格式的公开地理空间数据下载。"
   },
   {
     "id": "ds-014",
@@ -307,7 +320,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "全球高程/地形数据资源，主要包括高程地形数据、水文信息。提供多尺度、多格式的公开地理空间数据下载。"
   },
   {
     "id": "ds-015",
@@ -328,7 +342,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "全球高程/地形数据资源，主要包括高程地形数据。提供多尺度、多格式的公开地理空间数据下载。"
   },
   {
     "id": "ds-016",
@@ -348,7 +363,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "全球高程/地形数据资源，主要包括高程地形数据。提供多尺度、多格式的公开地理空间数据下载。"
   },
   {
     "id": "ds-017",
@@ -368,7 +384,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "全球高程/地形数据资源，主要包括高程地形数据。提供多尺度、多格式的公开地理空间数据下载。"
   },
   {
     "id": "ds-018",
@@ -389,7 +406,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "全球高程/地形数据资源，主要包括高程地形数据、基础底图。提供多尺度、多格式的公开地理空间数据下载。"
   },
   {
     "id": "ds-019",
@@ -409,7 +427,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "全球高程/地形数据资源，主要包括高程地形数据。提供多尺度、多格式的公开地理空间数据下载。"
   },
   {
     "id": "ds-020",
@@ -430,7 +449,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "全球高程/地形数据资源，主要包括高程地形数据、基础底图。提供多尺度、多格式的公开地理空间数据下载。"
   },
   {
     "id": "ds-021",
@@ -450,7 +470,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "全球高程/地形数据资源，主要包括高程地形数据。提供多尺度、多格式的公开地理空间数据下载。"
   },
   {
     "id": "ds-022",
@@ -470,7 +491,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "全球天气与气候数据资源，主要包括气候数据。提供多尺度、多格式的公开地理空间数据下载。"
   },
   {
     "id": "ds-023",
@@ -490,7 +512,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Registration required",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "全球天气与气候数据资源，主要包括气候数据。提供多尺度、多格式的公开地理空间数据下载。"
   },
   {
     "id": "ds-024",
@@ -510,7 +533,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "全球天气与气候数据资源，主要包括气候数据。提供多尺度、多格式的公开地理空间数据下载。"
   },
   {
     "id": "ds-025",
@@ -530,7 +554,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "全球天气与气候数据资源，主要包括气候数据。提供多尺度、多格式的公开地理空间数据下载。"
   },
   {
     "id": "ds-026",
@@ -550,7 +575,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "全球天气与气候数据资源，主要包括气候数据。提供多尺度、多格式的公开地理空间数据下载。"
   },
   {
     "id": "ds-027",
@@ -571,7 +597,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "全球天气与气候数据资源，主要包括气候数据。提供多尺度、多格式的公开地理空间数据下载。"
   },
   {
     "id": "ds-028",
@@ -591,7 +618,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "全球天气与气候数据资源，主要包括气候数据。提供多尺度、多格式的公开地理空间数据下载。"
   },
   {
     "id": "ds-029",
@@ -611,7 +639,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "全球天气与气候数据资源，主要包括气候数据。提供多尺度、多格式的公开地理空间数据下载。"
   },
   {
     "id": "ds-030",
@@ -631,7 +660,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "全球天气与气候数据资源，主要包括气候数据。提供多尺度、多格式的公开地理空间数据下载。"
   },
   {
     "id": "ds-031",
@@ -651,7 +681,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "全球天气与气候数据资源，主要包括气候数据。提供多尺度、多格式的公开地理空间数据下载。"
   },
   {
     "id": "ds-032",
@@ -672,7 +703,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "全球天气与气候数据资源，主要包括气候数据、水文信息。提供多尺度、多格式的公开地理空间数据下载。"
   },
   {
     "id": "ds-033",
@@ -695,7 +727,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "全球天气与气候数据资源，主要包括气候数据、水文信息、基础底图。提供多尺度、多格式的公开地理空间数据下载。"
   },
   {
     "id": "ds-034",
@@ -715,7 +748,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "全球天气与气候数据资源，主要包括气候数据。提供多尺度、多格式的公开地理空间数据下载。"
   },
   {
     "id": "ds-035",
@@ -735,7 +769,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "全球天气与气候数据资源，主要包括气候数据。提供多尺度、多格式的公开地理空间数据下载。"
   },
   {
     "id": "ds-036",
@@ -756,7 +791,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "全球天气与气候数据资源，主要包括气候数据、水文信息。提供多尺度、多格式的公开地理空间数据下载。"
   },
   {
     "id": "ds-037",
@@ -780,7 +816,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "全球水文水系数据资源，主要包括高程地形数据、水文信息、边界数据。提供多尺度、多格式的公开地理空间数据下载。"
   },
   {
     "id": "ds-038",
@@ -800,7 +837,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "全球水文水系数据资源，主要包括水文信息。提供多尺度、多格式的公开地理空间数据下载。"
   },
   {
     "id": "ds-039",
@@ -821,7 +859,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "全球水文水系数据资源，主要包括水文信息。提供多尺度、多格式的公开地理空间数据下载。"
   },
   {
     "id": "ds-040",
@@ -842,7 +881,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "全球水文水系数据资源，主要包括气候数据、水文信息。提供多尺度、多格式的公开地理空间数据下载。"
   },
   {
     "id": "ds-041",
@@ -862,7 +902,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "全球水文水系数据资源，主要包括水文信息。提供多尺度、多格式的公开地理空间数据下载。"
   },
   {
     "id": "ds-042",
@@ -882,7 +923,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "全球水文水系数据资源，主要包括水文信息。提供多尺度、多格式的公开地理空间数据下载。"
   },
   {
     "id": "ds-043",
@@ -905,7 +947,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "全球水文水系数据资源，主要包括气候数据、水文信息、土地覆盖数据。提供多尺度、多格式的公开地理空间数据下载。"
   },
   {
     "id": "ds-044",
@@ -925,7 +968,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "全球水文水系数据资源，主要包括水文信息。提供多尺度、多格式的公开地理空间数据下载。"
   },
   {
     "id": "ds-045",
@@ -945,7 +989,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "全球冰雪数据资源，主要包括气候数据。提供多尺度、多格式的公开地理空间数据下载。"
   },
   {
     "id": "ds-046",
@@ -965,7 +1010,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "全球冰雪数据资源，主要包括气候数据。提供多尺度、多格式的公开地理空间数据下载。"
   },
   {
     "id": "ds-047",
@@ -985,7 +1031,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "全球冰雪数据资源，主要包括气候数据。提供多尺度、多格式的公开地理空间数据下载。"
   },
   {
     "id": "ds-048",
@@ -1005,7 +1052,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "全球自然灾害数据资源，主要包括风险冲突。提供多尺度、多格式的公开地理空间数据下载。"
   },
   {
     "id": "ds-049",
@@ -1027,7 +1075,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "全球自然灾害数据资源，主要包括风险冲突、基础底图。提供多尺度、多格式的公开地理空间数据下载。"
   },
   {
     "id": "ds-050",
@@ -1047,7 +1096,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "全球自然灾害数据资源，主要包括风险冲突。提供多尺度、多格式的公开地理空间数据下载。"
   },
   {
     "id": "ds-051",
@@ -1067,7 +1117,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "全球自然灾害数据资源，主要包括风险冲突。提供多尺度、多格式的公开地理空间数据下载。"
   },
   {
     "id": "ds-052",
@@ -1089,7 +1140,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "全球自然灾害数据资源，主要包括水文信息、风险冲突、基础底图。提供多尺度、多格式的公开地理空间数据下载。"
   },
   {
     "id": "ds-053",
@@ -1109,7 +1161,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "全球自然灾害数据资源，主要包括风险冲突。提供多尺度、多格式的公开地理空间数据下载。"
   },
   {
     "id": "ds-054",
@@ -1129,7 +1182,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "全球自然灾害数据资源，主要包括风险冲突。提供多尺度、多格式的公开地理空间数据下载。"
   },
   {
     "id": "ds-055",
@@ -1149,7 +1203,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "全球自然灾害数据资源，主要包括风险冲突。提供多尺度、多格式的公开地理空间数据下载。"
   },
   {
     "id": "ds-056",
@@ -1169,7 +1224,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "全球自然灾害数据资源，主要包括风险冲突。提供多尺度、多格式的公开地理空间数据下载。"
   },
   {
     "id": "ds-057",
@@ -1190,7 +1246,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "全球土地覆盖数据资源，主要包括土地覆盖数据。提供多尺度、多格式的公开地理空间数据下载。"
   },
   {
     "id": "ds-058",
@@ -1210,7 +1267,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "全球土地覆盖数据资源，主要包括土地覆盖数据。提供多尺度、多格式的公开地理空间数据下载。"
   },
   {
     "id": "ds-059",
@@ -1231,7 +1289,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "全球土地覆盖数据资源，主要包括气候数据、土地覆盖数据。提供多尺度、多格式的公开地理空间数据下载。"
   },
   {
     "id": "ds-060",
@@ -1251,7 +1310,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "全球土地覆盖数据资源，主要包括土地覆盖数据。提供多尺度、多格式的公开地理空间数据下载。"
   },
   {
     "id": "ds-061",
@@ -1271,7 +1331,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "全球土地覆盖数据资源，主要包括土地覆盖数据。提供多尺度、多格式的公开地理空间数据下载。"
   },
   {
     "id": "ds-062",
@@ -1291,7 +1352,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "全球土地覆盖数据资源，主要包括土地覆盖数据。提供多尺度、多格式的公开地理空间数据下载。"
   },
   {
     "id": "ds-063",
@@ -1312,7 +1374,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "全球土地覆盖数据资源，主要包括土地覆盖数据、基础底图。提供多尺度、多格式的公开地理空间数据下载。"
   },
   {
     "id": "ds-064",
@@ -1332,7 +1395,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "全球土地覆盖数据资源，主要包括土地覆盖数据。提供多尺度、多格式的公开地理空间数据下载。"
   },
   {
     "id": "ds-065",
@@ -1355,7 +1419,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "全球土地覆盖数据资源，主要包括水文信息、土地覆盖数据、基础底图。提供多尺度、多格式的公开地理空间数据下载。"
   },
   {
     "id": "ds-066",
@@ -1375,7 +1440,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "全球土地覆盖数据资源，主要包括土地覆盖数据。提供多尺度、多格式的公开地理空间数据下载。"
   },
   {
     "id": "ds-067",
@@ -1396,7 +1462,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "全球土地覆盖数据资源，主要包括土地覆盖数据、人口统计。提供多尺度、多格式的公开地理空间数据下载。"
   },
   {
     "id": "ds-068",
@@ -1416,7 +1483,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "全球土地覆盖数据资源，主要包括土地覆盖数据。提供多尺度、多格式的公开地理空间数据下载。"
   },
   {
     "id": "ds-069",
@@ -1436,7 +1504,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "全球土地覆盖数据资源，主要包括土地覆盖数据。提供多尺度、多格式的公开地理空间数据下载。"
   },
   {
     "id": "ds-070",
@@ -1456,7 +1525,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "全球土地覆盖数据资源，主要包括土地覆盖数据。提供多尺度、多格式的公开地理空间数据下载。"
   },
   {
     "id": "ds-071",
@@ -1476,7 +1546,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "全球土地覆盖数据资源，主要包括土地覆盖数据。提供多尺度、多格式的公开地理空间数据下载。"
   },
   {
     "id": "ds-072",
@@ -1499,7 +1570,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "全球环境与生态数据资源，主要包括气候数据、土地覆盖数据、生态环境。提供多尺度、多格式的公开地理空间数据下载。"
   },
   {
     "id": "ds-073",
@@ -1522,7 +1594,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "全球环境与生态数据资源，主要包括气候数据、土地覆盖数据、生态环境。提供多尺度、多格式的公开地理空间数据下载。"
   },
   {
     "id": "ds-074",
@@ -1542,7 +1615,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "全球环境与生态数据资源，主要包括生态环境。提供多尺度、多格式的公开地理空间数据下载。"
   },
   {
     "id": "ds-075",
@@ -1562,7 +1636,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "全球环境与生态数据资源，主要包括生态环境。提供多尺度、多格式的公开地理空间数据下载。"
   },
   {
     "id": "ds-076",
@@ -1582,7 +1657,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "全球环境与生态数据资源，主要包括生态环境。提供多尺度、多格式的公开地理空间数据下载。"
   },
   {
     "id": "ds-077",
@@ -1602,7 +1678,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "全球环境与生态数据资源，主要包括生态环境。提供多尺度、多格式的公开地理空间数据下载。"
   },
   {
     "id": "ds-078",
@@ -1622,7 +1699,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "全球环境与生态数据资源，主要包括生态环境。提供多尺度、多格式的公开地理空间数据下载。"
   },
   {
     "id": "ds-079",
@@ -1645,7 +1723,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "全球环境与生态数据资源，主要包括水文信息、土地覆盖数据、生态环境。提供多尺度、多格式的公开地理空间数据下载。"
   },
   {
     "id": "ds-080",
@@ -1669,7 +1748,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "全球环境与生态数据资源，主要包括土地覆盖数据、生态环境、能源矿产。提供多尺度、多格式的公开地理空间数据下载。"
   },
   {
     "id": "ds-081",
@@ -1692,7 +1772,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "全球环境与生态数据资源，主要包括水文信息、土地覆盖数据、生态环境。提供多尺度、多格式的公开地理空间数据下载。"
   },
   {
     "id": "ds-082",
@@ -1713,7 +1794,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "全球环境与生态数据资源，主要包括水文信息、生态环境。提供多尺度、多格式的公开地理空间数据下载。"
   },
   {
     "id": "ds-083",
@@ -1733,7 +1815,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "全球环境与生态数据资源，主要包括生态环境。提供多尺度、多格式的公开地理空间数据下载。"
   },
   {
     "id": "ds-084",
@@ -1754,7 +1837,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "全球环境与生态数据资源，主要包括水文信息、生态环境。提供多尺度、多格式的公开地理空间数据下载。"
   },
   {
     "id": "ds-085",
@@ -1774,7 +1858,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "全球环境与生态数据资源，主要包括生态环境。提供多尺度、多格式的公开地理空间数据下载。"
   },
   {
     "id": "ds-086",
@@ -1794,7 +1879,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "全球环境与生态数据资源，主要包括生态环境。提供多尺度、多格式的公开地理空间数据下载。"
   },
   {
     "id": "ds-087",
@@ -1815,7 +1901,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "全球环境与生态数据资源，主要包括水文信息、生态环境。提供多尺度、多格式的公开地理空间数据下载。"
   },
   {
     "id": "ds-088",
@@ -1835,7 +1922,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "全球环境与生态数据资源，主要包括生态环境。提供多尺度、多格式的公开地理空间数据下载。"
   },
   {
     "id": "ds-089",
@@ -1856,7 +1944,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "全球环境与生态数据资源，主要包括水文信息、生态环境。提供多尺度、多格式的公开地理空间数据下载。"
   },
   {
     "id": "ds-090",
@@ -1876,7 +1965,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "全球环境与生态数据资源，主要包括生态环境。提供多尺度、多格式的公开地理空间数据下载。"
   },
   {
     "id": "ds-091",
@@ -1897,7 +1987,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "全球环境与生态数据资源，主要包括水文信息、生态环境。提供多尺度、多格式的公开地理空间数据下载。"
   },
   {
     "id": "ds-092",
@@ -1917,7 +2008,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "全球环境与生态数据资源，主要包括生态环境。提供多尺度、多格式的公开地理空间数据下载。"
   },
   {
     "id": "ds-093",
@@ -1938,7 +2030,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "全球环境与生态数据资源，主要包括水文信息、生态环境。提供多尺度、多格式的公开地理空间数据下载。"
   },
   {
     "id": "ds-094",
@@ -1958,7 +2051,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "全球矿产资源与油气数据资源，主要包括能源矿产。提供多尺度、多格式的公开地理空间数据下载。"
   },
   {
     "id": "ds-095",
@@ -1978,7 +2072,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "全球矿产资源与油气数据资源，主要包括能源矿产。提供多尺度、多格式的公开地理空间数据下载。"
   },
   {
     "id": "ds-096",
@@ -1998,7 +2093,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "全球矿产资源与油气数据资源，主要包括能源矿产。提供多尺度、多格式的公开地理空间数据下载。"
   },
   {
     "id": "ds-097",
@@ -2018,7 +2114,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "全球矿产资源与油气数据资源，主要包括能源矿产。提供多尺度、多格式的公开地理空间数据下载。"
   },
   {
     "id": "ds-098",
@@ -2039,7 +2136,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "全球矿产资源与油气数据资源，主要包括边界数据、能源矿产。提供多尺度、多格式的公开地理空间数据下载。"
   },
   {
     "id": "ds-099",
@@ -2059,7 +2157,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "全球矿产资源与油气数据资源，主要包括能源矿产。提供多尺度、多格式的公开地理空间数据下载。"
   },
   {
     "id": "ds-100",
@@ -2079,7 +2178,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "全球矿产资源与油气数据资源，主要包括能源矿产。提供多尺度、多格式的公开地理空间数据下载。"
   },
   {
     "id": "ds-101",
@@ -2102,7 +2202,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "全球综合数据资源，主要包括边界数据、生态环境。提供多尺度、多格式的公开地理空间数据下载。"
   },
   {
     "id": "ds-102",
@@ -2122,7 +2223,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "全球综合数据资源，主要包括综合地理数据。提供多尺度、多格式的公开地理空间数据下载。"
   },
   {
     "id": "ds-103",
@@ -2144,7 +2246,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "全球综合数据资源，主要包括边界数据、人口统计、交通网络。提供多尺度、多格式的公开地理空间数据下载。"
   },
   {
     "id": "ds-104",
@@ -2166,7 +2269,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "全球综合数据资源，主要包括人口统计、能源矿产。提供多尺度、多格式的公开地理空间数据下载。"
   },
   {
     "id": "ds-105",
@@ -2189,7 +2293,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Registration required",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "全球综合数据资源，主要包括边界数据、交通网络、基础底图。提供多尺度、多格式的公开地理空间数据下载。"
   },
   {
     "id": "ds-106",
@@ -2210,7 +2315,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "全球综合数据资源，主要包括人口统计。提供多尺度、多格式的公开地理空间数据下载。"
   },
   {
     "id": "ds-107",
@@ -2230,7 +2336,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "全球综合数据资源，主要包括综合地理数据。提供多尺度、多格式的公开地理空间数据下载。"
   },
   {
     "id": "ds-108",
@@ -2250,7 +2357,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "全球综合数据资源，主要包括综合地理数据。提供多尺度、多格式的公开地理空间数据下载。"
   },
   {
     "id": "ds-109",
@@ -2270,7 +2378,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "全球综合数据资源，主要包括综合地理数据。提供多尺度、多格式的公开地理空间数据下载。"
   },
   {
     "id": "ds-110",
@@ -2293,7 +2402,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "全球综合数据资源，主要包括人口统计、能源矿产、基础底图。提供多尺度、多格式的公开地理空间数据下载。"
   },
   {
     "id": "ds-111",
@@ -2316,7 +2426,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "全球行政边界数据资源，主要包括水文信息、边界数据、生态环境。提供多尺度、多格式的公开地理空间数据下载。"
   },
   {
     "id": "ds-112",
@@ -2338,7 +2449,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "全球行政边界数据资源，主要包括高程地形数据、边界数据。提供多尺度、多格式的公开地理空间数据下载。"
   },
   {
     "id": "ds-113",
@@ -2359,7 +2471,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "全球行政边界数据资源，主要包括边界数据、土地覆盖数据。提供多尺度、多格式的公开地理空间数据下载。"
   },
   {
     "id": "ds-114",
@@ -2380,7 +2493,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "全球行政边界数据资源，主要包括边界数据。提供多尺度、多格式的公开地理空间数据下载。"
   },
   {
     "id": "ds-115",
@@ -2400,7 +2514,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "全球行政边界数据资源，主要包括边界数据。提供多尺度、多格式的公开地理空间数据下载。"
   },
   {
     "id": "ds-116",
@@ -2422,7 +2537,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "全球行政边界数据资源，主要包括边界数据、基础底图。提供多尺度、多格式的公开地理空间数据下载。"
   },
   {
     "id": "ds-117",
@@ -2445,7 +2561,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "全球环境边界数据资源，主要包括边界数据、生态环境、基础底图。提供多尺度、多格式的公开地理空间数据下载。"
   },
   {
     "id": "ds-118",
@@ -2466,7 +2583,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "全球环境边界数据资源，主要包括边界数据、生态环境。提供多尺度、多格式的公开地理空间数据下载。"
   },
   {
     "id": "ds-119",
@@ -2488,7 +2606,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "全球环境边界数据资源，主要包括边界数据、生态环境。提供多尺度、多格式的公开地理空间数据下载。"
   },
   {
     "id": "ds-120",
@@ -2509,7 +2628,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "全球土地利用数据资源，主要包括土地覆盖数据、人口统计。提供多尺度、多格式的公开地理空间数据下载。"
   },
   {
     "id": "ds-121",
@@ -2531,7 +2651,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "全球土地利用数据资源，主要包括水文信息、土地覆盖数据、人口统计。提供多尺度、多格式的公开地理空间数据下载。"
   },
   {
     "id": "ds-122",
@@ -2551,7 +2672,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "全球土地利用数据资源，主要包括土地覆盖数据。提供多尺度、多格式的公开地理空间数据下载。"
   },
   {
     "id": "ds-123",
@@ -2571,7 +2693,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "全球土地利用数据资源，主要包括土地覆盖数据。提供多尺度、多格式的公开地理空间数据下载。"
   },
   {
     "id": "ds-124",
@@ -2591,7 +2714,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "全球土地利用数据资源，主要包括土地覆盖数据。提供多尺度、多格式的公开地理空间数据下载。"
   },
   {
     "id": "ds-125",
@@ -2611,7 +2735,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "全球土地利用数据资源，主要包括土地覆盖数据。提供多尺度、多格式的公开地理空间数据下载。"
   },
   {
     "id": "ds-126",
@@ -2631,7 +2756,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "全球土地利用数据资源，主要包括土地覆盖数据。提供多尺度、多格式的公开地理空间数据下载。"
   },
   {
     "id": "ds-127",
@@ -2652,7 +2778,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "全球土地利用数据资源，主要包括土地覆盖数据、人口统计。提供多尺度、多格式的公开地理空间数据下载。"
   },
   {
     "id": "ds-128",
@@ -2672,7 +2799,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "全球土地利用数据资源，主要包括土地覆盖数据。提供多尺度、多格式的公开地理空间数据下载。"
   },
   {
     "id": "ds-129",
@@ -2692,7 +2820,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "全球土地利用数据资源，主要包括土地覆盖数据。提供多尺度、多格式的公开地理空间数据下载。"
   },
   {
     "id": "ds-130",
@@ -2712,7 +2841,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "全球土地利用数据资源，主要包括土地覆盖数据。提供多尺度、多格式的公开地理空间数据下载。"
   },
   {
     "id": "ds-131",
@@ -2732,7 +2862,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "全球湖泊与海洋水体数据资源，主要包括水文信息。提供多尺度、多格式的公开地理空间数据下载。"
   },
   {
     "id": "ds-132",
@@ -2753,7 +2884,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Registration required",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "全球湖泊与海洋水体数据资源，主要包括水文信息、基础底图。提供多尺度、多格式的公开地理空间数据下载。"
   },
   {
     "id": "ds-133",
@@ -2773,7 +2905,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "全球战争冲突与犯罪数据资源，主要包括风险冲突。提供多尺度、多格式的公开地理空间数据下载。"
   },
   {
     "id": "ds-134",
@@ -2794,7 +2927,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "全球战争冲突与犯罪数据资源，主要包括风险冲突、基础底图。提供多尺度、多格式的公开地理空间数据下载。"
   },
   {
     "id": "ds-135",
@@ -2815,7 +2949,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "全球战争冲突与犯罪数据资源，主要包括风险冲突、基础底图。提供多尺度、多格式的公开地理空间数据下载。"
   },
   {
     "id": "ds-136",
@@ -2835,7 +2970,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "全球战争冲突与犯罪数据资源，主要包括风险冲突。提供多尺度、多格式的公开地理空间数据下载。"
   },
   {
     "id": "ds-137",
@@ -2855,7 +2991,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "全球人口数据数据资源，主要包括人口统计。提供多尺度、多格式的公开地理空间数据下载。"
   },
   {
     "id": "ds-138",
@@ -2876,7 +3013,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "全球人口数据数据资源，主要包括人口统计、基础底图。提供多尺度、多格式的公开地理空间数据下载。"
   },
   {
     "id": "ds-139",
@@ -2896,7 +3034,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "全球人口数据数据资源，主要包括人口统计。提供多尺度、多格式的公开地理空间数据下载。"
   },
   {
     "id": "ds-140",
@@ -2916,7 +3055,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "全球人口数据数据资源，主要包括人口统计。提供多尺度、多格式的公开地理空间数据下载。"
   },
   {
     "id": "ds-141",
@@ -2936,7 +3076,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "全球人口数据数据资源，主要包括人口统计。提供多尺度、多格式的公开地理空间数据下载。"
   },
   {
     "id": "ds-142",
@@ -2956,7 +3097,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "全球人口数据数据资源，主要包括人口统计。提供多尺度、多格式的公开地理空间数据下载。"
   },
   {
     "id": "ds-143",
@@ -2976,7 +3118,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "全球人口数据数据资源，主要包括人口统计。提供多尺度、多格式的公开地理空间数据下载。"
   },
   {
     "id": "ds-144",
@@ -2997,7 +3140,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "全球建筑、道路与兴趣点数据资源，主要包括交通网络、基础底图。提供多尺度、多格式的公开地理空间数据下载。"
   },
   {
     "id": "ds-145",
@@ -3018,7 +3162,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "全球建筑、道路与兴趣点数据资源，主要包括交通网络、基础底图。提供多尺度、多格式的公开地理空间数据下载。"
   },
   {
     "id": "ds-146",
@@ -3039,7 +3184,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "全球建筑、道路与兴趣点数据资源，主要包括交通网络、基础底图。提供多尺度、多格式的公开地理空间数据下载。"
   },
   {
     "id": "ds-147",
@@ -3060,7 +3206,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "全球建筑、道路与兴趣点数据资源，主要包括交通网络、基础底图。提供多尺度、多格式的公开地理空间数据下载。"
   },
   {
     "id": "ds-148",
@@ -3080,7 +3227,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "全球交通与通信数据资源，主要包括交通网络。提供多尺度、多格式的公开地理空间数据下载。"
   },
   {
     "id": "ds-149",
@@ -3100,7 +3248,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "全球交通与通信数据资源，主要包括交通网络。提供多尺度、多格式的公开地理空间数据下载。"
   },
   {
     "id": "ds-150",
@@ -3120,7 +3269,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "全球交通与通信数据资源，主要包括交通网络。提供多尺度、多格式的公开地理空间数据下载。"
   },
   {
     "id": "ds-151",
@@ -3140,7 +3290,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "全球交通与通信数据资源，主要包括交通网络。提供多尺度、多格式的公开地理空间数据下载。"
   },
   {
     "id": "ds-152",
@@ -3160,7 +3311,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "全球交通与通信数据资源，主要包括交通网络。提供多尺度、多格式的公开地理空间数据下载。"
   },
   {
     "id": "ds-153",
@@ -3180,7 +3332,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "全球交通与通信数据资源，主要包括交通网络。提供多尺度、多格式的公开地理空间数据下载。"
   },
   {
     "id": "ds-154",
@@ -3200,7 +3353,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "全球交通与通信数据资源，主要包括交通网络。提供多尺度、多格式的公开地理空间数据下载。"
   },
   {
     "id": "ds-155",
@@ -3221,7 +3375,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "全球交通与通信数据资源，主要包括人口统计、交通网络。提供多尺度、多格式的公开地理空间数据下载。"
   },
   {
     "id": "ds-156",
@@ -3241,7 +3396,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "全球交通与通信数据资源，主要包括交通网络。提供多尺度、多格式的公开地理空间数据下载。"
   },
   {
     "id": "ds-157",
@@ -3261,7 +3417,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "全球地名录数据资源，主要包括基础底图。提供多尺度、多格式的公开地理空间数据下载。"
   },
   {
     "id": "ds-158",
@@ -3282,7 +3439,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "全球地名录数据资源，主要包括人口统计、基础底图。提供多尺度、多格式的公开地理空间数据下载。"
   },
   {
     "id": "ds-159",
@@ -3302,7 +3460,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "全球地名录数据资源，主要包括基础底图。提供多尺度、多格式的公开地理空间数据下载。"
   },
   {
     "id": "ds-160",
@@ -3322,7 +3481,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "全球其他数据资源，主要包括基础底图。提供多尺度、多格式的公开地理空间数据下载。"
   },
   {
     "id": "ds-161",
@@ -3342,7 +3502,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "全球其他数据资源，主要包括风险冲突。提供多尺度、多格式的公开地理空间数据下载。"
   },
   {
     "id": "ds-162",
@@ -3362,7 +3523,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "阿富汗地区阿富汗数据资源，涵盖能源矿产。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-163",
@@ -3382,7 +3544,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "阿富汗地区阿富汗数据资源，涵盖水文信息。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-164",
@@ -3402,7 +3565,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "南极洲地区南极洲数据资源，涵盖基础底图。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-165",
@@ -3423,7 +3587,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "南极洲地区南极洲数据资源，涵盖高程地形数据、基础底图。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-166",
@@ -3443,7 +3608,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "南极洲地区南极洲数据资源，涵盖高程地形数据。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-167",
@@ -3463,7 +3629,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "南极洲地区南极洲数据资源。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-168",
@@ -3484,7 +3651,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "南极洲地区南极洲数据资源，涵盖气候数据、基础底图。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-169",
@@ -3504,7 +3672,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "南极洲地区南极洲数据资源。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-170",
@@ -3524,7 +3693,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "南极洲地区南极洲数据资源。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-171",
@@ -3544,7 +3714,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "北极地区北极数据资源。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-172",
@@ -3567,7 +3738,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "北极地区北极数据资源，涵盖气候数据、水文信息。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-173",
@@ -3587,7 +3759,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "阿根廷地区阿根廷数据资源。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-174",
@@ -3609,7 +3782,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "澳大利亚地区澳大利亚数据资源，涵盖边界数据、土地覆盖数据、生态环境。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-175",
@@ -3629,7 +3803,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "澳大利亚地区澳大利亚数据资源，涵盖水文信息。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-176",
@@ -3653,7 +3828,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "澳大利亚地区澳大利亚数据资源，涵盖气候数据、土地覆盖数据、人口统计。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-177",
@@ -3674,7 +3850,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "澳大利亚地区澳大利亚数据资源，涵盖生态环境、人口统计。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-178",
@@ -3696,7 +3873,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "澳大利亚地区澳大利亚数据资源，涵盖土地覆盖数据、生态环境、能源矿产。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-179",
@@ -3716,7 +3894,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "澳大利亚地区澳大利亚数据资源。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-180",
@@ -3737,7 +3916,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "澳大利亚地区澳大利亚数据资源，涵盖土地覆盖数据、能源矿产。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-181",
@@ -3757,7 +3937,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "澳大利亚地区澳大利亚数据资源。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-182",
@@ -3777,7 +3958,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "澳大利亚地区澳大利亚数据资源。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-183",
@@ -3797,7 +3979,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "澳大利亚地区澳大利亚数据资源。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-184",
@@ -3817,7 +4000,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "奥地利地区奥地利数据资源。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-185",
@@ -3838,7 +4022,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "比利时地区比利时数据资源，涵盖边界数据、人口统计。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-186",
@@ -3858,7 +4043,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "比利时地区比利时数据资源。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-187",
@@ -3878,7 +4064,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "比利时地区比利时数据资源。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-188",
@@ -3902,7 +4089,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "伯利兹地区伯利兹数据资源，涵盖边界数据、生态环境、交通网络。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-189",
@@ -3922,7 +4110,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "玻利维亚地区玻利维亚数据资源。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-190",
@@ -3942,7 +4131,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "玻利维亚地区玻利维亚数据资源。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-191",
@@ -3964,7 +4154,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "巴西地区巴西数据资源，涵盖边界数据、土地覆盖数据、基础底图。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-192",
@@ -3985,7 +4176,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "加拿大地区加拿大数据资源，涵盖水文信息、人口统计。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-193",
@@ -4005,7 +4197,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "加拿大地区加拿大数据资源。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-194",
@@ -4025,7 +4218,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "加拿大地区加拿大数据资源。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-195",
@@ -4045,7 +4239,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "加拿大地区加拿大数据资源，涵盖土地覆盖数据。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-196",
@@ -4066,7 +4261,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "加拿大地区加拿大数据资源，涵盖交通网络。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-197",
@@ -4087,7 +4283,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "加拿大地区加拿大数据资源，涵盖土地覆盖数据、能源矿产。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-198",
@@ -4108,7 +4305,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "加拿大地区加拿大数据资源，涵盖高程地形数据、水文信息。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-199",
@@ -4130,7 +4328,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "加拿大地区加拿大数据资源，涵盖边界数据、人口统计。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-200",
@@ -4150,7 +4349,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "加拿大地区加拿大数据资源，涵盖能源矿产。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-201",
@@ -4170,7 +4370,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "加拿大地区加拿大数据资源。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-202",
@@ -4190,7 +4391,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Registration required",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "加拿大地区加拿大数据资源。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-203",
@@ -4210,7 +4412,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "加拿大地区加拿大数据资源。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-204",
@@ -4230,7 +4433,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "加拿大地区加拿大数据资源，涵盖能源矿产。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-205",
@@ -4251,7 +4455,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "加拿大地区加拿大数据资源，涵盖高程地形数据。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-206",
@@ -4272,7 +4477,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "加拿大地区加拿大数据资源。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-207",
@@ -4292,7 +4498,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "加拿大地区加拿大数据资源，涵盖风险冲突。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-208",
@@ -4312,7 +4519,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "加拿大地区加拿大数据资源。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-209",
@@ -4332,7 +4540,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "加拿大地区加拿大数据资源。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-210",
@@ -4352,7 +4561,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "加拿大地区加拿大数据资源。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-211",
@@ -4372,7 +4582,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "加拿大地区加拿大数据资源。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-212",
@@ -4392,7 +4603,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "加拿大地区加拿大数据资源。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-213",
@@ -4412,7 +4624,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "加拿大地区加拿大数据资源。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-214",
@@ -4432,7 +4645,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "加拿大地区加拿大数据资源，涵盖土地覆盖数据。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-215",
@@ -4452,7 +4666,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "加拿大地区加拿大数据资源。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-216",
@@ -4472,7 +4687,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "加拿大地区加拿大数据资源。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-217",
@@ -4493,7 +4709,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Registration required",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "中美洲地区中美洲数据资源，涵盖土地覆盖数据、生态环境。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-218",
@@ -4513,7 +4730,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "中美洲地区中美洲数据资源。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-219",
@@ -4533,7 +4751,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "智利地区智利数据资源，涵盖土地覆盖数据。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-220",
@@ -4554,7 +4773,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "智利地区智利数据资源，涵盖边界数据、交通网络。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-221",
@@ -4574,7 +4794,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "智利地区智利数据资源。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-222",
@@ -4595,7 +4816,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "中国地区中国数据资源，涵盖边界数据、人口统计。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-223",
@@ -4615,7 +4837,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "中国地区中国数据资源，涵盖人口统计。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-224",
@@ -4635,7 +4858,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Registration required",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "中国地区中国数据资源，涵盖边界数据。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-225",
@@ -4655,7 +4879,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "中国地区中国数据资源。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-226",
@@ -4677,7 +4902,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "塞浦路斯地区塞浦路斯数据资源，涵盖高程地形数据、边界数据。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-227",
@@ -4697,7 +4923,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Registration required",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "丹麦地区丹麦数据资源，涵盖高程地形数据。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-228",
@@ -4717,7 +4944,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "丹麦地区丹麦数据资源。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-229",
@@ -4739,7 +4967,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "芬兰地区芬兰数据资源，涵盖高程地形数据、边界数据、基础底图。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-230",
@@ -4759,7 +4988,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "芬兰地区芬兰数据资源。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-231",
@@ -4781,7 +5011,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "芬兰地区芬兰数据资源，涵盖高程地形数据、人口统计。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-232",
@@ -4802,7 +5033,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "芬兰地区芬兰数据资源。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-233",
@@ -4822,7 +5054,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "芬兰地区芬兰数据资源，涵盖生态环境。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-234",
@@ -4843,7 +5076,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "法国地区法国数据资源，涵盖水文信息、交通网络。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-235",
@@ -4865,7 +5099,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "法国地区法国数据资源，涵盖高程地形数据、边界数据。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-236",
@@ -4885,7 +5120,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "法国地区法国数据资源。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-237",
@@ -4905,7 +5141,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "法国地区法国数据资源。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-238",
@@ -4925,7 +5162,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "法国地区法国数据资源。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-239",
@@ -4945,7 +5183,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "法国地区法国数据资源。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-240",
@@ -4965,7 +5204,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "法国地区法国数据资源，涵盖基础底图。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-241",
@@ -4985,7 +5225,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "德国地区德国数据资源。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-242",
@@ -5005,7 +5246,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "希腊地区希腊数据资源。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-243",
@@ -5027,7 +5269,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Registration required",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "印度地区印度数据资源，涵盖高程地形数据、气候数据、水文信息。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-244",
@@ -5047,7 +5290,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "冰岛地区冰岛数据资源。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-245",
@@ -5067,7 +5311,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Registration required",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "冰岛地区冰岛数据资源。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-246",
@@ -5087,7 +5332,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "爱尔兰地区爱尔兰数据资源，涵盖人口统计。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-247",
@@ -5107,7 +5353,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "爱尔兰地区爱尔兰数据资源，涵盖生态环境。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-248",
@@ -5127,7 +5374,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "爱尔兰地区爱尔兰数据资源，涵盖气候数据。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-249",
@@ -5147,7 +5395,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "爱尔兰地区爱尔兰数据资源，涵盖能源矿产。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-250",
@@ -5169,7 +5418,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "爱尔兰地区爱尔兰数据资源，涵盖水文信息、土地覆盖数据、能源矿产。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-251",
@@ -5192,7 +5442,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "意大利地区意大利数据资源，涵盖高程地形数据、边界数据、交通网络。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-252",
@@ -5212,7 +5463,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "意大利地区意大利数据资源。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-253",
@@ -5232,7 +5484,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "意大利地区意大利数据资源，涵盖边界数据。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-254",
@@ -5253,7 +5506,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "日本地区日本数据资源，涵盖水文信息、基础底图。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-255",
@@ -5273,7 +5527,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "肯尼亚地区肯尼亚数据资源。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-256",
@@ -5293,7 +5548,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "墨西哥地区墨西哥数据资源，涵盖人口统计。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-257",
@@ -5313,7 +5569,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "纳米比亚地区纳米比亚数据资源，涵盖气候数据。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-258",
@@ -5333,7 +5590,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "尼泊尔地区尼泊尔数据资源。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-259",
@@ -5354,7 +5612,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "荷兰地区荷兰数据资源。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-260",
@@ -5374,7 +5633,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "荷兰地区荷兰数据资源。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-261",
@@ -5394,7 +5654,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "新西兰地区新西兰数据资源。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-262",
@@ -5414,7 +5675,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "新西兰地区新西兰数据资源，涵盖水文信息。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-263",
@@ -5436,7 +5698,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Registration required",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "新西兰地区新西兰数据资源，涵盖高程地形数据、气候数据。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-264",
@@ -5459,7 +5722,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "新西兰地区新西兰数据资源，涵盖高程地形数据、土地覆盖数据、能源矿产。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-265",
@@ -5479,7 +5743,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "新西兰地区新西兰数据资源，涵盖高程地形数据。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-266",
@@ -5500,7 +5765,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "新西兰地区新西兰数据资源，涵盖边界数据。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-267",
@@ -5522,7 +5788,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "挪威地区挪威数据资源，涵盖高程地形数据、交通网络、基础底图。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-268",
@@ -5542,7 +5809,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "挪威地区挪威数据资源。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-269",
@@ -5562,7 +5830,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "挪威地区挪威数据资源。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-270",
@@ -5585,7 +5854,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "秘鲁地区秘鲁数据资源，涵盖水文信息、边界数据、能源矿产。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-271",
@@ -5608,7 +5878,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "菲律宾地区菲律宾数据资源，涵盖高程地形数据、水文信息、边界数据。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-272",
@@ -5632,7 +5903,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "葡萄牙地区葡萄牙数据资源，涵盖气候数据、土地覆盖数据、生态环境。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-273",
@@ -5652,7 +5924,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "波多黎各地区波多黎各数据资源，涵盖能源矿产。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-274",
@@ -5673,7 +5946,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "罗马尼亚地区罗马尼亚数据资源。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-275",
@@ -5693,7 +5967,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "罗马尼亚地区罗马尼亚数据资源。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-276",
@@ -5713,7 +5988,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "俄罗斯地区俄罗斯数据资源。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-277",
@@ -5734,7 +6010,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "俄罗斯地区俄罗斯数据资源，涵盖土地覆盖数据、生态环境。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-278",
@@ -5754,7 +6031,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "俄罗斯地区俄罗斯数据资源，涵盖土地覆盖数据。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-279",
@@ -5776,7 +6054,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "斯洛文尼亚地区斯洛文尼亚数据资源，涵盖气候数据、水文信息。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-280",
@@ -5796,7 +6075,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "斯洛文尼亚地区斯洛文尼亚数据资源，涵盖土地覆盖数据。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-281",
@@ -5816,7 +6096,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "斯洛文尼亚地区斯洛文尼亚数据资源。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-282",
@@ -5837,7 +6118,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "斯洛文尼亚地区斯洛文尼亚数据资源，涵盖高程地形数据、人口统计。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-283",
@@ -5858,7 +6140,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "西班牙地区西班牙数据资源，涵盖水文信息、基础底图。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-284",
@@ -5878,7 +6161,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "西班牙地区西班牙数据资源，涵盖基础底图。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-285",
@@ -5898,7 +6182,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "西班牙地区西班牙数据资源。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-286",
@@ -5921,7 +6206,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "西班牙地区西班牙数据资源，涵盖水文信息、边界数据、生态环境。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-287",
@@ -5941,7 +6227,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "西班牙地区西班牙数据资源，涵盖高程地形数据。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-288",
@@ -5961,7 +6248,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "西班牙地区西班牙数据资源。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-289",
@@ -5981,7 +6269,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "西班牙地区西班牙数据资源。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-290",
@@ -6001,7 +6290,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "西班牙地区西班牙数据资源。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-291",
@@ -6021,7 +6311,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "南非地区南非数据资源，涵盖水文信息。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-292",
@@ -6041,7 +6332,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "南非地区南非数据资源，涵盖生态环境。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-293",
@@ -6067,7 +6359,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "南非地区南非数据资源，涵盖气候数据、水文信息、土地覆盖数据。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-294",
@@ -6087,7 +6380,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "南非地区南非数据资源，涵盖土地覆盖数据。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-295",
@@ -6108,7 +6402,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "瑞士地区瑞士数据资源，涵盖边界数据。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-296",
@@ -6128,7 +6423,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "瑞士地区瑞士数据资源。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-297",
@@ -6152,7 +6448,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "英国地区英国数据资源，涵盖水文信息、边界数据、交通网络。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-298",
@@ -6172,7 +6469,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "英国地区英国数据资源。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-299",
@@ -6194,7 +6492,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "英国地区英国数据资源，涵盖边界数据、基础底图。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-300",
@@ -6214,7 +6513,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "英国地区英国数据资源。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-301",
@@ -6234,7 +6534,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "英国地区英国数据资源。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-302",
@@ -6255,7 +6556,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "英国地区英国数据资源，涵盖水文信息、生态环境。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-303",
@@ -6275,7 +6577,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "英国地区英国数据资源。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-304",
@@ -6295,7 +6598,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "英国地区英国数据资源，涵盖交通网络。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-305",
@@ -6316,7 +6620,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "英国地区英国数据资源，涵盖边界数据。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-306",
@@ -6336,7 +6641,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "英国地区英国数据资源，涵盖水文信息。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-307",
@@ -6357,7 +6663,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "英国地区英国数据资源，涵盖生态环境、能源矿产。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-308",
@@ -6378,7 +6685,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "英国地区英国数据资源，涵盖基础底图。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-309",
@@ -6399,7 +6707,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "英国地区英国数据资源。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-310",
@@ -6420,7 +6729,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "英国地区英国数据资源。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-311",
@@ -6440,7 +6750,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "英国地区英国数据资源，涵盖能源矿产。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-312",
@@ -6460,7 +6771,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "英国地区英国数据资源。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-313",
@@ -6480,7 +6792,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "英国地区英国数据资源。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-314",
@@ -6501,7 +6814,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "英国地区英国数据资源，涵盖能源矿产。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-315",
@@ -6521,7 +6835,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "英国地区英国数据资源，涵盖能源矿产。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-316",
@@ -6542,7 +6857,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "英国地区英国数据资源，涵盖人口统计、基础底图。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-317",
@@ -6562,7 +6878,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "英国地区英国数据资源。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-318",
@@ -6582,7 +6899,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "英国地区英国数据资源。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-319",
@@ -6605,7 +6923,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "英国地区英国数据资源，涵盖边界数据、人口统计。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-320",
@@ -6627,7 +6946,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "英国地区英国数据资源，涵盖边界数据、人口统计。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-321",
@@ -6647,7 +6967,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "英国地区英国数据资源，涵盖人口统计。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-322",
@@ -6667,7 +6988,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "英国地区英国数据资源，涵盖交通网络。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-323",
@@ -6687,7 +7009,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "英国地区英国数据资源，涵盖基础底图。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-324",
@@ -6707,7 +7030,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "英国地区英国数据资源，涵盖交通网络。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-325",
@@ -6727,7 +7051,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "英国地区英国数据资源。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-326",
@@ -6748,7 +7073,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "英国地区英国数据资源，涵盖边界数据、基础底图。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-327",
@@ -6768,7 +7094,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "英国地区英国数据资源，涵盖边界数据。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-328",
@@ -6788,7 +7115,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "英国地区英国数据资源，涵盖风险冲突。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-329",
@@ -6808,7 +7136,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "英国地区英国数据资源。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-330",
@@ -6828,7 +7157,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "英国地区英国数据资源。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-331",
@@ -6848,7 +7178,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "英国地区英国数据资源。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-332",
@@ -6868,7 +7199,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "阿联酋地区阿联酋数据资源。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-333",
@@ -6888,7 +7220,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "美国地区美国数据资源。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-334",
@@ -6908,7 +7241,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "美国地区美国数据资源，涵盖风险冲突。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-335",
@@ -6929,7 +7263,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "美国地区美国数据资源，涵盖高程地形数据、土地覆盖数据。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-336",
@@ -6952,7 +7287,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "美国地区美国数据资源，涵盖气候数据、土地覆盖数据、生态环境。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-337",
@@ -6972,7 +7308,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "美国地区美国数据资源，涵盖基础底图。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-338",
@@ -6992,7 +7329,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "美国地区美国数据资源，涵盖边界数据。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-339",
@@ -7012,7 +7350,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "美国地区美国数据资源。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-340",
@@ -7033,7 +7372,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "美国地区美国数据资源，涵盖土地覆盖数据、基础底图。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-341",
@@ -7053,7 +7393,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "美国地区美国数据资源，涵盖土地覆盖数据。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-342",
@@ -7073,7 +7414,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "美国地区美国数据资源。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-343",
@@ -7093,7 +7435,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "美国地区美国数据资源，涵盖土地覆盖数据。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-344",
@@ -7114,7 +7457,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "美国地区美国数据资源，涵盖水文信息、土地覆盖数据。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-345",
@@ -7134,7 +7478,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "美国地区美国数据资源，涵盖土地覆盖数据。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-346",
@@ -7156,7 +7501,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "美国地区美国数据资源，涵盖土地覆盖数据、基础底图。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-347",
@@ -7176,7 +7522,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "美国地区美国数据资源。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-348",
@@ -7196,7 +7543,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "美国地区美国数据资源，涵盖土地覆盖数据。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-349",
@@ -7216,7 +7564,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "美国地区美国数据资源，涵盖高程地形数据。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-350",
@@ -7237,7 +7586,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "美国地区美国数据资源，涵盖高程地形数据、水文信息。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-351",
@@ -7258,7 +7608,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "美国地区美国数据资源，涵盖高程地形数据、边界数据。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-352",
@@ -7278,7 +7629,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Registration required",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "美国地区美国数据资源，涵盖高程地形数据。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-353",
@@ -7299,7 +7651,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "美国地区美国数据资源，涵盖气候数据、水文信息。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-354",
@@ -7321,7 +7674,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "美国地区美国数据资源，涵盖气候数据、基础底图。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-355",
@@ -7342,7 +7696,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "美国地区美国数据资源，涵盖气候数据、风险冲突。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-356",
@@ -7364,7 +7719,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "美国地区美国数据资源，涵盖气候数据、水文信息、基础底图。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-357",
@@ -7384,7 +7740,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "美国地区美国数据资源。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-358",
@@ -7405,7 +7762,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "美国地区美国数据资源，涵盖气候数据、基础底图。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-359",
@@ -7425,7 +7783,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "美国地区美国数据资源。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-360",
@@ -7445,7 +7804,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "美国地区美国数据资源，涵盖生态环境。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-361",
@@ -7465,7 +7825,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "美国地区美国数据资源，涵盖生态环境。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-362",
@@ -7486,7 +7847,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "美国地区美国数据资源，涵盖水文信息、土地覆盖数据。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-363",
@@ -7508,7 +7870,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "美国地区美国数据资源，涵盖生态环境、基础底图。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-364",
@@ -7530,7 +7893,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "美国地区美国数据资源，涵盖土地覆盖数据、能源矿产。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-365",
@@ -7553,7 +7917,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "美国地区美国数据资源，涵盖水文信息、边界数据、生态环境。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-366",
@@ -7573,7 +7938,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "美国地区美国数据资源。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-367",
@@ -7593,7 +7959,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "美国地区美国数据资源。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-368",
@@ -7613,7 +7980,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "美国地区美国数据资源。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-369",
@@ -7633,7 +8001,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "美国地区美国数据资源，涵盖气候数据。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-370",
@@ -7653,7 +8022,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "美国地区美国数据资源，涵盖人口统计。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-371",
@@ -7673,7 +8043,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "美国地区美国数据资源。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-372",
@@ -7693,7 +8064,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "美国地区美国数据资源。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-373",
@@ -7713,7 +8085,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "美国地区美国数据资源，涵盖能源矿产。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-374",
@@ -7733,7 +8106,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "美国地区美国数据资源。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-375",
@@ -7753,7 +8127,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "美国地区美国数据资源，涵盖能源矿产。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-376",
@@ -7773,7 +8148,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "美国地区美国数据资源。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-377",
@@ -7795,7 +8171,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "美国地区美国数据资源，涵盖水文信息、基础底图。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-378",
@@ -7816,7 +8193,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "美国地区美国数据资源，涵盖水文信息、风险冲突。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-379",
@@ -7838,7 +8216,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "美国地区美国数据资源，涵盖水文信息、基础底图。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-380",
@@ -7859,7 +8238,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "美国地区美国数据资源，涵盖高程地形数据、水文信息。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-381",
@@ -7879,7 +8259,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "美国地区美国数据资源，涵盖人口统计。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-382",
@@ -7900,7 +8281,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "美国地区美国数据资源，涵盖人口统计。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-383",
@@ -7921,7 +8303,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "美国地区美国数据资源，涵盖边界数据、人口统计。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-384",
@@ -7944,7 +8327,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Registration required",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "美国地区美国数据资源，涵盖高程地形数据、人口统计、基础底图。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-385",
@@ -7965,7 +8349,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "美国地区美国数据资源，涵盖高程地形数据、人口统计。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-386",
@@ -7985,7 +8370,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "美国地区美国数据资源，涵盖风险冲突。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-387",
@@ -8006,7 +8392,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "美国地区美国数据资源，涵盖能源矿产。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-388",
@@ -8028,7 +8415,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "美国地区美国数据资源，涵盖能源矿产、基础底图。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-389",
@@ -8048,7 +8436,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "美国地区美国数据资源，涵盖能源矿产。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-390",
@@ -8068,7 +8457,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "美国地区美国数据资源，涵盖交通网络。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-391",
@@ -8088,7 +8478,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "美国地区美国数据资源。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-392",
@@ -8108,7 +8499,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "美国地区美国数据资源。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-393",
@@ -8128,7 +8520,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "美国地区美国数据资源，涵盖高程地形数据。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-394",
@@ -8148,7 +8541,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "美国地区美国数据资源。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-395",
@@ -8168,7 +8562,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "美国地区美国数据资源。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-396",
@@ -8188,7 +8583,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "美国地区美国数据资源。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-397",
@@ -8208,7 +8604,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "美国地区美国数据资源。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-398",
@@ -8230,7 +8627,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "美国地区美国数据资源，涵盖水文信息、土地覆盖数据、能源矿产。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-399",
@@ -8250,7 +8648,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "美国地区美国数据资源。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-400",
@@ -8270,7 +8669,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "美国地区美国数据资源。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-401",
@@ -8290,7 +8690,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "美国地区美国数据资源。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-402",
@@ -8310,7 +8711,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "美国地区美国数据资源。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-403",
@@ -8330,7 +8732,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "美国地区美国数据资源。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-404",
@@ -8350,7 +8753,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "美国地区美国数据资源。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-405",
@@ -8370,7 +8774,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "美国地区美国数据资源。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-406",
@@ -8390,7 +8795,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "美国地区美国数据资源。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-407",
@@ -8410,7 +8816,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "美国地区美国数据资源。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-408",
@@ -8430,7 +8837,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "美国地区美国数据资源。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-409",
@@ -8450,7 +8858,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "美国地区美国数据资源。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-410",
@@ -8470,7 +8879,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "美国地区美国数据资源。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-411",
@@ -8490,7 +8900,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "美国地区美国数据资源。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-412",
@@ -8510,7 +8921,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "美国地区美国数据资源，涵盖水文信息。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-413",
@@ -8530,7 +8942,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "美国地区美国数据资源。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-414",
@@ -8550,7 +8963,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "美国地区美国数据资源。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-415",
@@ -8570,7 +8984,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "美国地区美国数据资源。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-416",
@@ -8590,7 +9005,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "美国地区美国数据资源。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-417",
@@ -8610,7 +9026,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "美国地区美国数据资源。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-418",
@@ -8630,7 +9047,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "美国地区美国数据资源。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-419",
@@ -8650,7 +9068,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "美国地区美国数据资源。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-420",
@@ -8670,7 +9089,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "美国地区美国数据资源。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-421",
@@ -8690,7 +9110,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "美国地区美国数据资源。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-422",
@@ -8712,7 +9133,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "美国地区美国数据资源，涵盖高程地形数据、水文信息、交通网络。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-423",
@@ -8732,7 +9154,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "美国地区美国数据资源。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-424",
@@ -8752,7 +9175,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "美国地区美国数据资源。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-425",
@@ -8772,7 +9196,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "美国地区美国数据资源。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-426",
@@ -8796,7 +9221,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "美国地区美国数据资源，涵盖高程地形数据、边界数据、交通网络。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-427",
@@ -8816,7 +9242,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "美国地区美国数据资源，涵盖基础底图。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-428",
@@ -8837,7 +9264,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "美国地区美国数据资源，涵盖交通网络、基础底图。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-429",
@@ -8857,7 +9285,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "美国地区美国数据资源。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-430",
@@ -8878,7 +9307,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "美国地区美国数据资源，涵盖水文信息、生态环境。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-431",
@@ -8898,7 +9328,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "美国地区美国数据资源。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-432",
@@ -8918,7 +9349,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "美国地区美国数据资源。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-433",
@@ -8939,7 +9371,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "美国地区美国数据资源。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-434",
@@ -8959,7 +9392,8 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "美国地区美国数据资源。提供公开的GIS数据下载或在线访问。"
   },
   {
     "id": "ds-435",
@@ -8979,6 +9413,7 @@ window.GIS_DATASETS = [
     ],
     "access": "Open / Free",
     "source": "Free GIS Data by Robin Wilson",
-    "language": "en"
+    "language": "en",
+    "descriptionZh": "美国地区美国数据资源。提供公开的GIS数据下载或在线访问。"
   }
 ];

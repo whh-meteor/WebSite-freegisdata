@@ -331,6 +331,18 @@ a:focus-visible {
   font-size: 14px;
 }
 
+.card-topics {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+}
+
+.card-domain {
+  font-size: 13px !important;
+  color: var(--muted);
+  opacity: 0.75;
+}
+
 .dataset-card a {
   margin-top: auto;
   color: var(--primary);

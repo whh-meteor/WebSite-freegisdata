@@ -103,6 +103,194 @@ const groupName = {
   }
 };
 
+// Topic translations
+const topicName = {
+  zh: {
+    "Elevation": "高程/地形",
+    "Hydrology": "水文",
+    "Boundaries": "边界",
+    "Base Map": "底图",
+    "Land Cover": "土地覆盖",
+    "Population": "人口",
+    "Transport": "交通",
+    "Climate": "气候",
+    "Ecology": "生态",
+    "General": "综合",
+    "Energy & Minerals": "能源与矿产",
+    "Risk & Conflict": "风险与冲突",
+    "Antarctica": "南极洲",
+    "Arctic": "北极",
+    "Argentina": "阿根廷",
+    "Australia": "澳大利亚",
+    "Austria": "奥地利",
+    "Belgium": "比利时",
+    "Bolivia": "玻利维亚",
+    "Canada": "加拿大",
+    "Central America": "中美洲",
+    "Chile": "智利",
+    "China": "中国",
+    "Denmark": "丹麦",
+    "Finland": "芬兰",
+    "France": "法国",
+    "Germany": "德国",
+    "Greece": "希腊",
+    "Iceland": "冰岛",
+    "Italy": "意大利",
+    "Kenya": "肯尼亚",
+    "Nepal": "尼泊尔",
+    "New Zealand": "新西兰",
+    "Norway": "挪威",
+    "Romania": "罗马尼亚",
+    "Russia": "俄罗斯",
+    "Slovenia": "斯洛文尼亚",
+    "Spain": "西班牙",
+    "Switzerland": "瑞士",
+    "The Netherlands": "荷兰",
+    "United Arab Emirates": "阿联酋",
+    "United Kingdom (UK)": "英国",
+    "United States of America (USA)": "美国"
+  },
+  en: {}
+};
+
+// Format translations
+const formatName = {
+  zh: {
+    "Vector": "矢量",
+    "Raster": "栅格",
+    "API / Portal": "API / 门户",
+    "Tabular": "表格",
+    "Mixed / Unspecified": "混合 / 未指定"
+  },
+  en: {}
+};
+
+// Category translations
+const categoryName = {
+  zh: {
+    "General": "综合",
+    "Land and Ocean Boundaries": "陆地与海洋边界",
+    "Elevation": "高程",
+    "Weather and Climate": "天气与气候",
+    "Hydrology": "水文",
+    "Snow/Ice": "雪/冰",
+    "Natural Disasters": "自然灾害",
+    "Land Cover": "土地覆盖",
+    "Environment & Ecology": "环境与生态",
+    "Mineral Resources/Oil and Gas": "矿产资源/石油天然气",
+    "Administrative Boundaries": "行政边界",
+    "Environmental Boundaries": "环境边界",
+    "Buildings, Roads and Points of Interest": "建筑、道路与兴趣点",
+    "Gazetteers (place/feature names)": "地名录（地点/要素名称）",
+    "Lakes, Oceans and other Water Sources": "湖泊、海洋及其他水体",
+    "Land Use": "土地利用",
+    "Miscellaneous": "其他",
+    "Population": "人口",
+    "Transport and Communications": "交通与通信",
+    "Wars, Conflict and Crime": "战争、冲突与犯罪",
+    // Countries
+    "Afghanistan": "阿富汗",
+    "Antarctica": "南极洲",
+    "Arctic": "北极",
+    "Argentina": "阿根廷",
+    "Australia": "澳大利亚",
+    "Austria": "奥地利",
+    "Belgium": "比利时",
+    "Belize": "伯利兹",
+    "Bolivia": "玻利维亚",
+    "Brazil": "巴西",
+    "Canada": "加拿大",
+    "Central America": "中美洲",
+    "Chile": "智利",
+    "China": "中国",
+    "Cyprus": "塞浦路斯",
+    "Denmark": "丹麦",
+    "Finland": "芬兰",
+    "France": "法国",
+    "Germany": "德国",
+    "Greece": "希腊",
+    "Iceland": "冰岛",
+    "India": "印度",
+    "Ireland": "爱尔兰",
+    "Italy": "意大利",
+    "Japan": "日本",
+    "Kenya": "肯尼亚",
+    "Mexico": "墨西哥",
+    "Namibia": "纳米比亚",
+    "Nepal": "尼泊尔",
+    "New Zealand": "新西兰",
+    "Norway": "挪威",
+    "Peru": "秘鲁",
+    "Philippines": "菲律宾",
+    "Portugal": "葡萄牙",
+    "Puerto Rico": "波多黎各",
+    "Romania": "罗马尼亚",
+    "Russia": "俄罗斯",
+    "Slovenia": "斯洛文尼亚",
+    "South Africa": "南非",
+    "Spain": "西班牙",
+    "Switzerland": "瑞士",
+    "The Netherlands": "荷兰",
+    "United Arab Emirates": "阿联酋",
+    "United Kingdom (UK)": "英国",
+    "United States of America (USA)": "美国"
+  },
+  en: {}
+};
+
+// Region translations
+const regionName = {
+  zh: {
+    "Global / Multi-region": "全球 / 多区域",
+    "Afghanistan": "阿富汗",
+    "Antarctica": "南极洲",
+    "Arctic": "北极",
+    "Argentina": "阿根廷",
+    "Australia": "澳大利亚",
+    "Austria": "奥地利",
+    "Belgium": "比利时",
+    "Belize": "伯利兹",
+    "Bolivia": "玻利维亚",
+    "Brazil": "巴西",
+    "Canada": "加拿大",
+    "Central America": "中美洲",
+    "Chile": "智利",
+    "China": "中国",
+    "Cyprus": "塞浦路斯",
+    "Denmark": "丹麦",
+    "Finland": "芬兰",
+    "France": "法国",
+    "Germany": "德国",
+    "Greece": "希腊",
+    "Iceland": "冰岛",
+    "India": "印度",
+    "Ireland": "爱尔兰",
+    "Italy": "意大利",
+    "Japan": "日本",
+    "Kenya": "肯尼亚",
+    "Mexico": "墨西哥",
+    "Namibia": "纳米比亚",
+    "Nepal": "尼泊尔",
+    "New Zealand": "新西兰",
+    "Norway": "挪威",
+    "Peru": "秘鲁",
+    "Philippines": "菲律宾",
+    "Portugal": "葡萄牙",
+    "Puerto Rico": "波多黎各",
+    "Romania": "罗马尼亚",
+    "Russia": "俄罗斯",
+    "Slovenia": "斯洛文尼亚",
+    "South Africa": "南非",
+    "Spain": "西班牙",
+    "Switzerland": "瑞士",
+    "The Netherlands": "荷兰",
+    "United Arab Emirates": "阿联酋",
+    "United Kingdom (UK)": "英国",
+    "United States of America (USA)": "美国"
+  },
+  en: {}
+};
+
 function unique(values) {
   return [...new Set(values.filter(Boolean))].sort((a, b) => a.localeCompare(b));
 }
@@ -126,10 +314,16 @@ function setLanguage(lang) {
 function optionLabel(value, type) {
   if (!value) return text("all");
   if (type === "group") return groupName[state.lang][value] || value;
+  if (type === "category") return categoryName[state.lang][value] || value;
+  if (type === "format") return formatName[state.lang][value] || value;
   if (type === "access" && state.lang === "zh") {
     return value === "Registration required" ? text("registration") : text("free");
   }
   return value;
+}
+
+function t(value, map) {
+  return (map && map[state.lang] && map[state.lang][value]) || value;
 }
 
 function fillSelect(select, values, current, type) {
@@ -175,8 +369,7 @@ function matches(item) {
 
 function displayDescription(item) {
   if (state.lang === "zh") {
-    const prefix = item.groupZh ? `${item.groupZh} / ${item.category}` : item.category;
-    return `${prefix}。${item.description || "该资源提供公开 GIS 数据入口，请访问原始站点查看下载方式和许可信息。"}`;
+    return item.descriptionZh || item.description || "该资源提供公开 GIS 数据入口，请访问原始站点查看下载方式和许可信息。";
   }
   return item.description || "Open the source website for download options and license details.";
 }
@@ -185,15 +378,17 @@ function renderCard(item) {
   const article = document.createElement("article");
   article.className = "dataset-card";
   const meta = [
-    optionLabel(item.group, "group"),
-    item.category,
-    ...((item.formats || []).slice(0, 2))
+    t(item.group, groupName),
+    t(item.category, categoryName),
+    ...((item.formats || []).slice(0, 2).map(f => t(f, formatName)))
   ];
+  const topicTags = (item.topics || []).slice(0, 4).map(tp => `<span class="pill">${escapeHtml(t(tp, topicName))}</span>`).join("");
   article.innerHTML = `
     <div class="card-meta">${meta.map((label) => `<span class="pill">${escapeHtml(label)}</span>`).join("")}</div>
     <h3>${escapeHtml(item.name)}</h3>
     <p>${escapeHtml(displayDescription(item))}</p>
-    <p>${escapeHtml(item.domain || item.region || "")}</p>
+    ${topicTags ? `<div class="card-topics">${topicTags}</div>` : ""}
+    <p class="card-domain">${escapeHtml(t(item.region, regionName) || item.domain || "")}</p>
     <a href="${escapeAttr(item.url)}" target="_blank" rel="noopener noreferrer">${text("open")}</a>
   `;
   return article;
