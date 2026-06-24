@@ -1,0 +1,152 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>免费 GIS 数据导航 | Free GIS Data Directory</title>
+    <meta name="description" content="免费 GIS 数据导航收录自然地理、人文地理、国家和地区专题等公开 GIS 数据源，支持关键词、分类、地区、格式和访问方式筛选。">
+    <meta name="keywords" content="免费GIS数据,GIS数据下载,地理数据,遥感数据,地图数据,矢量数据,栅格数据,DEM,行政区划,Open GIS Data,Free GIS Data">
+    <meta name="author" content="WebSite-freegisdata">
+    <meta name="robots" content="index,follow,max-image-preview:large">
+    <meta name="theme-color" content="#0f766e">
+    <link rel="canonical" href="https://whh-meteor.github.io/WebSite-freegisdata/">
+    <link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
+    <meta property="og:type" content="website">
+    <meta property="og:locale" content="zh_CN">
+    <meta property="og:locale:alternate" content="en_US">
+    <meta property="og:title" content="免费 GIS 数据导航">
+    <meta property="og:description" content="一个简洁、可检索、双语切换的免费 GIS 数据资源目录。">
+    <meta property="og:url" content="https://whh-meteor.github.io/WebSite-freegisdata/">
+    <meta property="og:site_name" content="免费 GIS 数据导航">
+    <meta property="og:image" content="https://whh-meteor.github.io/WebSite-freegisdata/assets/og-cover.svg">
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:title" content="免费 GIS 数据导航">
+    <meta name="twitter:description" content="收录公开 GIS 数据源，支持关键词、分类、地区、格式和访问方式筛选。">
+    <meta name="twitter:image" content="https://whh-meteor.github.io/WebSite-freegisdata/assets/og-cover.svg">
+    <script type="application/ld+json">
+      {
+        "@context": "https://schema.org",
+        "@type": "Dataset",
+        "name": "免费 GIS 数据导航",
+        "alternateName": "Free GIS Data Directory",
+        "description": "一个面向 GIS、遥感、规划、环境和数据分析工作者的免费地理空间数据资源目录。",
+        "url": "https://whh-meteor.github.io/WebSite-freegisdata/",
+        "inLanguage": ["zh-CN", "en"],
+        "keywords": ["GIS", "geospatial data", "open data", "remote sensing", "DEM", "boundaries"],
+        "isAccessibleForFree": true,
+        "creator": {
+          "@type": "Organization",
+          "name": "WebSite-freegisdata"
+        },
+        "distribution": {
+          "@type": "DataDownload",
+          "encodingFormat": "application/javascript",
+          "contentUrl": "https://whh-meteor.github.io/WebSite-freegisdata/js/data.js"
+        }
+      }
+    </script>
+    <link rel="stylesheet" href="css/styles.css">
+  </head>
+  <body>
+    <header class="site-header">
+      <nav class="nav-shell" aria-label="Primary">
+        <a class="brand" href="#home" aria-label="Free GIS Data Directory">
+          <span class="brand-mark">GIS</span>
+          <span>
+            <strong data-i18n="brand">免费 GIS 数据导航</strong>
+            <small>Free GIS Data Directory</small>
+          </span>
+        </a>
+        <div class="nav-actions">
+          <a href="#catalog" data-i18n="navCatalog">数据目录</a>
+          <a href="#about" data-i18n="navAbout">关于</a>
+          <button class="lang-toggle" type="button" id="langToggle" aria-label="Switch language">EN</button>
+        </div>
+      </nav>
+    </header>
+
+    <main id="home">
+      <section class="hero">
+        <div class="hero-copy">
+          <p class="eyebrow" data-i18n="eyebrow">开放地理空间数据索引</p>
+          <h1 data-i18n="heroTitle">快速发现可用的免费 GIS 数据源</h1>
+          <p class="hero-text" data-i18n="heroText">整理自然地理、人文地理、国家和地区专题数据入口，适合制图、空间分析、遥感、城市规划和环境研究使用。</p>
+          <div class="hero-actions">
+            <a class="primary-btn" href="#catalog" data-i18n="startSearch">开始检索</a>
+            <a class="secondary-btn" href="https://freegisdata.rtwilson.com/" target="_blank" rel="noopener" data-i18n="sourceSite">参考原始目录</a>
+          </div>
+        </div>
+        <div class="hero-panel" aria-label="Catalog statistics">
+          <div>
+            <span id="totalCount">0</span>
+            <small data-i18n="statDatasets">数据资源</small>
+          </div>
+          <div>
+            <span id="categoryCount">0</span>
+            <small data-i18n="statCategories">分类主题</small>
+          </div>
+          <div>
+            <span id="regionCount">0</span>
+            <small data-i18n="statRegions">地区入口</small>
+          </div>
+        </div>
+      </section>
+
+      <section class="filters" id="catalog" aria-labelledby="catalogTitle">
+        <div class="section-heading">
+          <p class="eyebrow" data-i18n="catalogEyebrow">可配置数据目录</p>
+          <h2 id="catalogTitle" data-i18n="catalogTitle">检索数据资源</h2>
+        </div>
+        <div class="filter-grid">
+          <label>
+            <span data-i18n="keyword">关键词</span>
+            <input id="searchInput" type="search" placeholder="Natural Earth / DEM / China" autocomplete="off">
+          </label>
+          <label>
+            <span data-i18n="group">资源大类</span>
+            <select id="groupFilter"></select>
+          </label>
+          <label>
+            <span data-i18n="category">分类 / 地区</span>
+            <select id="categoryFilter"></select>
+          </label>
+          <label>
+            <span data-i18n="format">数据形态</span>
+            <select id="formatFilter"></select>
+          </label>
+          <label>
+            <span data-i18n="access">访问方式</span>
+            <select id="accessFilter"></select>
+          </label>
+        </div>
+      </section>
+
+      <section class="results-band">
+        <div class="results-toolbar">
+          <p><strong id="resultCount">0</strong> <span data-i18n="resultSuffix">条结果</span></p>
+          <button type="button" id="resetFilters" data-i18n="reset">重置筛选</button>
+        </div>
+        <div class="dataset-grid" id="datasetGrid" aria-live="polite"></div>
+      </section>
+
+      <section class="about" id="about">
+        <div>
+          <p class="eyebrow" data-i18n="aboutEyebrow">维护方式</p>
+          <h2 data-i18n="aboutTitle">静态页面，也能持续扩展</h2>
+        </div>
+        <p data-i18n="aboutText">所有资源数据集中维护在 js/data.js 中。后续新增或删除数据时，只需要调整数组条目，筛选器和统计信息会自动更新。</p>
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      <p data-i18n="disclaimer">数据免责声明：本站仅整理并展示第三方公开 GIS 数据入口，不拥有这些数据，也不保证其准确性、完整性、时效性、许可条件或可用性。使用前请核验原始发布机构、授权协议、边界争议和质量说明，并自行承担使用风险。</p>
+      <p>
+        <span data-i18n="credit">资源参考：</span>
+        <a href="https://freegisdata.rtwilson.com/" target="_blank" rel="noopener">Free GIS Data by Robin Wilson</a>
+      </p>
+    </footer>
+
+    <script src="js/data.js"></script>
+    <script src="js/app.js"></script>
+  </body>
+</html>

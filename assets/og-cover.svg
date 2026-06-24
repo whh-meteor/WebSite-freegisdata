@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <rect width="1200" height="630" fill="#f6f8f7"/>
+  <rect x="80" y="70" width="1040" height="490" rx="18" fill="#102321"/>
+  <path d="M150 150l210-66 235 84 210-58 245 90v285l-245-90-210 58-235-84-210 66z" fill="#f8faf9"/>
+  <path d="M360 84v285M595 168v285M805 110v285" stroke="#0f766e" stroke-width="12"/>
+  <circle cx="607" cy="309" r="74" fill="#b7791f"/>
+  <path d="M607 218v182M516 309h182" stroke="#fff" stroke-width="22" stroke-linecap="round"/>
+  <text x="150" y="505" font-family="Arial, sans-serif" font-size="54" font-weight="700" fill="#ffffff">免费 GIS 数据导航</text>
+  <text x="150" y="548" font-family="Arial, sans-serif" font-size="28" fill="#9be3d7">Free GIS Data Directory</text>
+</svg>
