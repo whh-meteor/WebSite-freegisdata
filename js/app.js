@@ -374,26 +374,6 @@ function displayDescription(item) {
   return item.description || "Open the source website for download options and license details.";
 }
 
-function renderCard(item) {
-  const article = document.createElement("article");
-  article.className = "dataset-card";
-  const meta = [
-    t(item.group, groupName),
-    t(item.category, categoryName),
-    ...((item.formats || []).slice(0, 2).map(f => t(f, formatName)))
-  ];
-  const topicTags = (item.topics || []).slice(0, 4).map(tp => `<span class="pill">${escapeHtml(t(tp, topicName))}</span>`).join("");
-  article.innerHTML = `
-    <div class="card-meta">${meta.map((label) => `<span class="pill">${escapeHtml(label)}</span>`).join("")}</div>
-    <h3>${escapeHtml(item.name)}</h3>
-    <p>${escapeHtml(displayDescription(item))}</p>
-    ${topicTags ? `<div class="card-topics">${topicTags}</div>` : ""}
-    <p class="card-domain">${escapeHtml(t(item.region, regionName) || item.domain || "")}</p>
-    <a href="${escapeAttr(item.url)}" target="_blank" rel="noopener noreferrer">${text("open")}</a>
-  `;
-  return article;
-}
-
 function escapeHtml(value) {
   return String(value).replace(/[&<>"']/g, (char) => ({
     "&": "&amp;",
@@ -408,6 +388,39 @@ function escapeAttr(value) {
   return escapeHtml(value).replace(/`/g, "&#096;");
 }
 
+function renderRow(item) {
+  const row = document.createElement("div");
+  row.className = "dataset-row";
+  const fmtPills = (item.formats || []).slice(0, 3).map(f => `<span class="pill">${escapeHtml(t(f, formatName))}</span>`).join("");
+  const topicPills = (item.topics || [])
+    .filter(tp => !regionName.zh[tp]) // 过滤掉纯国家名主题
+    .slice(0, 4)
+    .map(tp => `<span class="pill">${escapeHtml(t(tp, topicName))}</span>`).join("");
+  row.innerHTML = `
+    <div class="row-main">
+      <div class="row-info">
+        <strong class="row-title">${escapeHtml(item.name)}</strong>
+        <span class="row-desc">${escapeHtml(displayDescription(item))}</span>
+      </div>
+      <div class="row-tags">
+        ${fmtPills}${topicPills ? topicPills : ""}
+      </div>
+    </div>
+    <a class="row-action" href="${escapeAttr(item.url)}" target="_blank" rel="noopener noreferrer">${text("open")}</a>
+  `;
+  return row;
+}
+
+function groupBy(array, keyFn) {
+  const map = new Map();
+  array.forEach(item => {
+    const key = keyFn(item);
+    if (!map.has(key)) map.set(key, []);
+    map.get(key).push(item);
+  });
+  return map;
+}
+
 function render() {
   const filtered = datasets.filter(matches);
   els.resultCount.textContent = filtered.length.toLocaleString();
@@ -419,7 +432,50 @@ function render() {
     els.datasetGrid.appendChild(empty);
     return;
   }
-  filtered.forEach((item) => els.datasetGrid.appendChild(renderCard(item)));
+
+  // Group by group -> category
+  const groupMap = groupBy(filtered, item => item.group);
+  const groupOrder = ["Physical Geography", "Human Geography", "Country-specific"];
+  const sortedGroups = [...groupMap.keys()].sort((a, b) => {
+    const ia = groupOrder.indexOf(a);
+    const ib = groupOrder.indexOf(b);
+    if (ia >= 0 && ib >= 0) return ia - ib;
+    if (ia >= 0) return -1;
+    if (ib >= 0) return 1;
+    return a.localeCompare(b);
+  });
+
+  sortedGroups.forEach(group => {
+    const groupSection = document.createElement("section");
+    groupSection.className = "group-section";
+
+    const groupHeader = document.createElement("h2");
+    groupHeader.className = "group-header";
+    groupHeader.textContent = t(group, groupName);
+    groupSection.appendChild(groupHeader);
+
+    const items = groupMap.get(group);
+    const catMap = groupBy(items, item => item.category);
+    const sortedCats = [...catMap.keys()].sort((a, b) => a.localeCompare(b));
+
+    sortedCats.forEach(cat => {
+      const catSection = document.createElement("div");
+      catSection.className = "category-section";
+
+      const catHeader = document.createElement("h3");
+      catHeader.className = "category-header";
+      catHeader.textContent = t(cat, categoryName);
+      catSection.appendChild(catHeader);
+
+      catMap.get(cat).forEach(item => {
+        catSection.appendChild(renderRow(item));
+      });
+
+      groupSection.appendChild(catSection);
+    });
+
+    els.datasetGrid.appendChild(groupSection);
+  });
 }
 
 function updateStats() {
