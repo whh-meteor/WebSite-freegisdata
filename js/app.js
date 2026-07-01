@@ -352,6 +352,7 @@ function matches(item) {
   const haystack = [
     item.name,
     item.description,
+    item.descriptionZh,
     item.group,
     item.groupZh,
     item.category,
